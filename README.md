@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananda Priya Yustira</h1>
 <h3 align="center">A committed individual with a deep interest in user interface design and user experience, always striving to create elegant, responsive, and intuitive digital solutions. Let's collaborate to bring impactful and sustainable projects to life together.</h3>
 
-- 🌱 I’m currently learning **React JS, and Java**
+- 🌱 I’m currently learning **React JS, Java and Git**
 
 - 📫 How to reach me **nyustira6@gmail.com**
 
