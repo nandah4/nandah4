@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananda Priya Yustira</h1>
-<h3 align="center">A committed individual with a deep interest in user interface design and user experience, always striving to create elegant, responsive, and intuitive digital solutions. Let's collaborate to bring impactful and sustainable projects to life together.</h3>
+<h3 align="center">Always learning</h3>
 
 - 🌱 I’m currently learning **React, Java, and Kotlin**
 
