@@ -5,6 +5,6 @@
 An individuals focusing on Mobile Development using Kotlin and Flutter. Currently, i am also learning backend development in my free time to enhance my skills. 
 
 <h4>😄 Let`s Connect on Social Media </h4>
-Find me on GitHub or contact me via <strong>nandapriyaa@gmail.com</strong> to collaborate on exciting projects!
-<br>
+Find me on GitHub or contact me via <strong>nandapriyaa@gmail.com</strong> to collaborate on exciting projects! <br><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandah4&" alt="nandah4" /></p>
