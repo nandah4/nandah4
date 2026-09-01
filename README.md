@@ -1,26 +1,14 @@
 <h2>
-  “The only way to do great work is to love what you do.”
+  “The only way to do great work is to love what you do.” <i>— Steve Jobs</i>
 </h2>
-
-<p>
-  <i>— Steve Jobs</i>
-</p>
-
-<br>
 
 <h3>Hi, I'm Ananda Priya Yustira 👋</h3>
 
 <p>
   A <strong>Software Engineer specializing in Mobile Development</strong>
-  using Kotlin and Flutter.
-</p>
-
-<p>
-  I enjoy building projects, exploring new technologies, and turning ideas
+  using Kotlin and Flutter. I enjoy building projects, exploring new technologies, and turning ideas
   into useful applications.
 </p>
-
-<br>
 
 <h3>Tech Stack</h3>
 
@@ -38,8 +26,6 @@
   <img src="https://img.shields.io/badge/Firebase-555555?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-555555?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
-
-<br>
 
 <h3>Let's Connect</h3>
 
@@ -62,8 +48,6 @@
     />
   </a>
 </p>
-
-<br>
 
 <h3>GitHub Streak</h3>
 
