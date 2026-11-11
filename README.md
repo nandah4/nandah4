@@ -1,21 +1,18 @@
 <div align="center">
 
-# Ananda Priya Yustira
+# *"The only way to do great work is to love what you do."*
 
-**Software Engineer — Mobile Development**
+**— Steve Jobs**
 
-> *"The only way to do great work is to love what you do."* — Steve Jobs
-
-I build native apps…
-but honestly, I'm mostly here wondering and curious about AI.
+Hi, I build native apps — mostly curious about AI.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananda%20Priya%20Yustira-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-priya-yustira-832b1129b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananda%20Priya%20Yustira-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-priya-yustira-832b1129b/)
 &nbsp;
-[![Website](https://img.shields.io/badge/Website-neyustira.my.id-334155?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neyustira.my.id/)
+[![Website](https://img.shields.io/badge/Website-neyustira.my.id-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neyustira.my.id/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-nandapriyaa%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandapriyaa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nandapriyaa%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandapriyaa@gmail.com)
 
 <br>
 
