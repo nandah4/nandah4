@@ -1,59 +1,27 @@
-<h2>
-  “The only way to do great work is to love what you do.” <i>— Steve Jobs</i>
-</h2>
+<div align="center">
 
-<h3>Hi, I'm Ananda Priya Yustira 👋</h3>
+# Ananda Priya Yustira
 
-<p>
-  A <strong>Software Engineer specializing in Mobile Development</strong>
-  using Kotlin and Flutter. I enjoy building projects, exploring new technologies, and turning ideas
-  into useful applications.
-</p>
+**Software Engineer — Mobile Development**
 
-<h3>Tech Stack</h3>
+> *"The only way to do great work is to love what you do."* — Steve Jobs
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-555555?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Kotlin-555555?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-555555?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-555555?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-555555?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-555555?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Firebase-555555?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-555555?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
+I build native apps…
+but honestly, I'm mostly here wondering and curious about AI.
 
-<h3>Let's Connect</h3>
+<br>
 
-<p>
-  Feel free to explore my work or contact me to discuss collaborations and
-  interesting project ideas.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananda%20Priya%20Yustira-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-priya-yustira-832b1129b/)
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-neyustira.my.id-334155?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neyustira.my.id/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-nandapriyaa%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandapriyaa@gmail.com)
 
-<p>
-  <a href="https://github.com/nandah4">
-    <img
-      src="https://img.shields.io/badge/GitHub-nandah4-555555?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-  <a href="mailto:nandapriyaa@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-nandapriyaa%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
+<br>
 
-<h3>GitHub Streak</h3>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nandah4&hide_border=true&background=00000000&ring=94A3B8&fire=94A3B8&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B"
+  alt="Ananda's GitHub Streak"
+/>
 
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nandah4&hide_border=true&background=00000000&ring=6B7280&fire=6B7280&currStreakLabel=6B7280&sideLabels=6B7280&dates=9CA3AF"
-    alt="Ananda's GitHub Streak"
-  />
-</p>
+</div>
